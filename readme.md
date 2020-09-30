@@ -1,6 +1,6 @@
 Transforms the data from [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) into a json file. Available at [https://pomber.github.io/covid19/timeseries.json](https://pomber.github.io/covid19/timeseries.json). Updated three times a day using GitHub Actions.
 
-The json contains the number of Coronavirus confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
+The json contains the number of Coronavirus(Covid-19)confirmed cases, deaths, and recovered cases for every country and every day since 2020-1-22:
 
 ```
 {
@@ -45,9 +45,9 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [COVID-19 Ruby Gem](https://github.com/everythings-cancelled/pomber_covid19)
 
 #### Tutorials
-- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus web site
+- [Build a Coronavirus web site with Next.js](https://pomb.us/nextjs-static-props/) ([repo](https://github.com/pomber/nextjs-static-props)) - How to use Next.js to build a static Coronavirus (Covid-19) web site
 - [COVID-19 Datawrapper Widget With Auto Refresh](https://medium.com/@simondhaas/import-json-data-google-sheets-auto-refresh-covid-19-widget-6cf34946e869): How to Import JSON Data From This API Into Google Sheets — and Create a COVID-19 Widget With Datawrapper in Less Than 5 Minutes
-- [The ultimate flutter tutorial for beginners](https://milapneupane.com.np/2020/05/01/the-ultimate-flutter-tutorial-for-beginners/): At the end of this tutorial, you will be able to develop a mobile app that fetches covid19 stats data from the server and display them in various UI widgets.
+- [The ultimate flutter tutorial for beginners](https://milapneupane.com.np/2020/05/01/the-ultimate-flutter-tutorial-for-beginners/): At the end of this tutorial, you will be able to develop a mobile app that fetches Covid-19 stats data from the server and display them in various UI widgets.
 
 #### Visualizations
 - [Covid19 Visuals](https://workaholic7.github.io/covid19visuals/) ([repo](https://github.com/workaholic7/covid19visuals)): React app with Corona statistics globally and country wise.
@@ -56,15 +56,15 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Coronavirus-plotter](https://alexanderritik.github.io/Coronavirus-Epidemic/) ([repo](https://github.com/alexanderritik/Coronavirus-Epidemic)) :Its is web app with globe view to give all current situation with charts and animation effects.
 - [COVID-19-INDIA-WORLD](https://covid19.saurav.tech/) ([repo](https://github.com/SauravKanchan/corona)): COVID-19 Tracker build with [svelte](https://svelte.dev/)
 - [Plotting COVID-19](https://rsheptolut.github.io/plot-covid) ([repo](https://github.com/rsheptolut/plot-covid)): Configurable and shareable COVID-19 country comparison charts.
-- [YACA](https://covid.aequologica.net/) ([repo](https://github.com/cthiebaud/cthiebaud.github.io/blob/master/README.md)): Yet Another Covid-19 App. Make your own graphs of COVID-19 cases. Tweakable options are:  1. select multiple countries,  2. select data (confirmed|deaths|recovered), 3. total cases vs. daily delta, 4. absolute vs. per capita numbers, 5. logarithmic vs. linear Y axis, 6. size of moving average (for daily delta), and 7. start date. Last but not least, it is possible to generate both a permalink of the configuration, and a snapshot image of the graph, handy when sharing to social media. 
+- [YACA](https://covid.aequologica.net/) ([repo](https://github.com/cthiebaud/cthiebaud.github.io/blob/master/README.md)): Yet Another Covid-19 App. Make your own graphs of COVID-19 cases. Tweakable options are:  1. Select multiple countries,  2. Select data (confirmed|deaths|recovered), 3. Total cases vs. Daily delta, 4. Absolute vs. Per capita numbers, 5. Logarithmic vs. Linear Y axis, 6. Size of moving average (for daily delta), and 7. Start date. Last but not least, it is possible to generate both a permalink of the configuration, and a snapshot image of the graph, handy when sharing to social media. 
 - [COVID-19 World at a Glance!](https://covid-19-world.netlify.com/) ([repo](https://github.com/atapas/covid-19)): Dashboard with COVID-19 Visualization of my Country(India), World Spread Comparator and Country level details across the world.
 - [COVID-19 Global Report](https://app.powerbi.com/view?r=eyJrIjoiNTFmNzExYzktN2QyNi00ZGNhLTg1MjQtYTUyOWIyMGYzOGI2IiwidCI6IjE1M2U3N2E0LWMyOWQtNGYyZS04ODU3LWU0MDU5M2YxNjkzMCJ9) ([repo](https://github.com/vinecz-data/coronavirus)): COVID-19 Global Report focus in Brazil and World. Made with Snowflake, Pentaho and Power BI.
 - [Corona Status Brazil - Mobile Friendly](https://ericcoutinho.github.io/corona-status-brasil) ([repo](https://github.com/ericcoutinho/corona-status-brasil)): Covid-19 daily report Brazil in a mobile friendly website. 
 - [COVID-19 Flight Info](https://www.covid19globalinfo.com/) ([repo](https://github.com/maschad/covid19-banned-flights)): Flight and Travel info as well as other stats related to the outbreak.
 - [The Curve](https://thecurve.infinitesimals.space/) ([repo](https://github.com/eminx/thecurve)): The Curve
 - [COVID-19 Notifier](https://coronanotifier.com/) ([repo](https://github.com/ElBedeawi/covid19)): Covid-19 Daily Notifier
-- [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid19 Daily Report Visualizer
-- [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid19 Graphical Visualizer
+- [COVID-19 Daily Report](https://covid19dailyreport.000webhostapp.com/) ([repo](https://github.com/Subhash3/COVID19_ANALYSIS)): Covid-19 Daily Report Visualizer
+- [Covid19 Visualizer](https://ray2294.github.io) ([repo](https://github.com/ray2294/ray2294.github.io)): Covid-19 Graphical Visualizer
 - [EU stats report on COVID-19](https://covid19eu.jonur.io/) ([repo](https://github.com/Jonur/covid19-eu-report)): COVID-19 tracker for EU countries
 - [CoronaStatistics.live](https://coronastatistics.live) ([repo](https://github.com/OssamaRafique/Corona-Statistics-And-Tracker-Dashboard-Angular-9)): COVID-19 Global Report
 - [COVID-19 World](https://andreasagap.github.io/Covid19-World/) ([repo](https://github.com/andreasagap/Covid19-World)): COVID-19 Global Report
@@ -72,7 +72,7 @@ fetch("https://pomber.github.io/covid19/timeseries.json")
 - [Mobile Friendly COVID-19 Report](http://corona-status.live/) ([repo](https://github.com/ameerthehacker/corona-status)): Coronavirus daily report in a mobile friendly website (PWA)
 - [COVID-19 Daily Report](https://icebob.info/covid19/) ([repo](https://github.com/icebob/covid19)): Coronavirus daily report, updated hourly
 - [COVID-19 GLOBAL Report](https://mdusmanansari.github.io/COVID-19-Global-Report/) ([repo](https://github.com/mdusmanansari/COVID-19-Global-Report/))
-- [covid-charts](https://jeetiss.github.io/covid-charts/) ([repo](https://github.com/jeetiss/covid-charts)): chart widget with Coronavirus stats for specified country
+- [covid-charts](https://jeetiss.github.io/covid-charts/) ([repo](https://github.com/jeetiss/covid-charts)): Chart widget with Coronavirus stats for specified country
 - [COVID-19 Global Chart](https://gabrielcesar.github.io/covid/) ([repo](https://github.com/gabrielcesar/covid)): Chart GeoMap with last status by country.
 - [COVID-19 Stats](https://corona.netflex.dev/) ([repo](https://github.com/thomas-alrek/covid-19-stats)): A simple mobile friendly dashboard visualizing the latest stats of the COVID-19 outbreak.
 - [Corona.log](https://corona-log.now.sh/) ([repo](https://github.com/biewxw/corona.log)): A simple COVID-19 data checker per region
